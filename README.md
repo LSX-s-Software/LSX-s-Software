@@ -10,7 +10,7 @@ Major in CS.
 
 ## 📊 Statistics
 
-![LSX-s-Software's GitHub stats](https://github-readme-stats-mocha-seven.vercel.app/api?theme=transparent&username=LSX-s-Software&show_icons=true&include_all_commits=true&count_private=true)
+![LSX-s-Software's GitHub stats](https://github-readme-stats-mocha-seven.vercel.app/api?theme=transparent&username=LSX-s-Software&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile)
 
 ## 👨‍💻 I'm using
 
