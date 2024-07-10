@@ -2,11 +2,11 @@
 
 ## 🙋‍♂️ Self-Introduction
 
-A rookie from Wuhan University, China.
+Ph.D. student in Computer Science, Tsinghua University, China.
+
+B.S. in Computer Science, Wuhan University, China.
 
 Love designing & developing.
-
-Major in CS.
 
 ## 📊 Statistics
 
